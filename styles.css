@@ -1,0 +1,35 @@
+.title-big {
+  color: darkgoldenrod;
+  font-family: fantasy;
+}
+
+.title-k {
+  color: darkcyan;
+  font-family: 'Papyrus', Comic Sans MS, fantasy;
+}
+a:hover {
+  color: aquamarine;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+table {
+  border: 2px solid rgb(140 140 140);
+}
+
+th,
+td {
+  border: 1px solid rgb(160 160 160);
+}
+        
+            aside {
+  width: 30%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+  color: #239a65;
+}
+
+aside > p {
+  margin: 0.5rem;
+}
